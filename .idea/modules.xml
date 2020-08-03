@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnalyticMicroservice/AnalyticMicroservice.iml" filepath="$PROJECT_DIR$/AnalyticMicroservice/AnalyticMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Archive.iml" filepath="$PROJECT_DIR$/.idea/Archive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FeedMicroservice/FeedMicroservice.iml" filepath="$PROJECT_DIR$/FeedMicroservice/FeedMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QAMicroservice/QAMicroservice.iml" filepath="$PROJECT_DIR$/QAMicroservice/QAMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserDetails/QuoraProject/QuoraProject.iml" filepath="$PROJECT_DIR$/UserDetails/QuoraProject/QuoraProject.iml" />
+    </modules>
+  </component>
+</project>
